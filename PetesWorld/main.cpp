@@ -148,6 +148,29 @@ int main()
 			std::cout << "There is nothing in region 5" << std::endl;
 		}
 	}
+	if (letter == 'f' || letter == 'F')
+	{
+		if (region == 1)
+		{
+			std::cout << "Falkland Islands, French Guiana" << std::endl;
+		}
+		if (region == 2)
+		{
+			std::cout << "Faroe Islands, Finland, France" << std::endl;
+		}
+		if (region == 3)
+		{
+			std::cout << "There is nothing in region 3" << std::endl;
+		}
+		if (region == 4)
+		{
+			std::cout << "French Southern Territories" << std::endl;
+		}
+		if (region == 5)
+		{
+			std::cout << "French Polynesia, Fiji" << std::endl;
+		}
+	}
 	
 	if (letter == 'z' || letter == 'Z') // written by Pete
 	{
