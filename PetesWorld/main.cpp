@@ -1,8 +1,13 @@
 // program to find countries in Pete's World
 // date November 2022
 // author Pete Lowe
+<<<<<<< HEAD
 // add your name here: Leo Bolaks
 //  or here
+=======
+// add your name here
+//  or here Seán Kroczek
+>>>>>>> 07cff84c2c43521f3dff450a0c596cd84dd668af
 // estimated time 120 minutes
 // actual time ??
 // version 1.0
