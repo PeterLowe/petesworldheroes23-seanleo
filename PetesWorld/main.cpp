@@ -127,6 +127,29 @@ int main()
 			std::cout << "There are no Ys in the rest of the world" << std::endl;
 		}
 	}
+	if (letter == 'x' || 'X')
+	{
+		if (region == 1)
+		{
+			std::cout << "There are no Xs in Americas" << std::endl;
+		}
+		if (region == 2)
+		{
+			std::cout << "There are no Xs in Europe" << std::endl;
+		}
+		if (region == 3)
+		{
+			std::cout << "There are no Xs in Africa" << std::endl;
+		}
+		if (region == 4)
+		{
+			std::cout << "There are no Xs in Asia" << std::endl;
+		}
+		if (region == 5)
+		{
+			std::cout << "There are no Xs in the rest of the world" << std::endl;
+		}
+	}
 	
 	
 	
