@@ -171,6 +171,29 @@ int main()
 			std::cout << "French Polynesia, Fiji" << std::endl;
 		}
 	}
+	if (letter == 'g' || letter == 'G')
+	{
+		if (region == 1)
+		{
+			std::cout << "Greenland, Grenada, Guadeloupe, Guatemala, Guyana" << std::endl;
+		}
+		if (region == 2)
+		{
+			std::cout << "Germany, Georgia, Gibraltar" << std::endl; 
+		}
+		if (region == 3)
+		{
+			std::cout << "Gabon, Gambia, Ghana, Guinea, Guinea Bissau" << std::endl;
+		}
+		if (region == 4)
+		{
+			std::cout << "There is nothing in region 4" << std::endl; 
+		}
+		if (region == 5)
+		{
+			std::cout << "Guam" << std::endl; 
+		}
+	}
 	
 	if (letter == 'z' || letter == 'Z') // written by Pete
 	{
